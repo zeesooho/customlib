@@ -16,7 +16,7 @@ setting.gradle(Project Settings)
 ```
 dependencyResolutionManagement {
   repositories {
-  ...
+    ...
     maven { url 'https://jitpack.io' }
   }
 }
